@@ -1,6 +1,6 @@
 
 # Helvetika (alias for Hack) [![Contributors](https://img.shields.io/badge/contributors-104-orange.svg?style=flat)](https://github.com/chrissimpkins/Hack/blob/master/CONTRIBUTORS.md)
-### A typeface designed for source code
+### A typeface designed for source code & laws
 
 <a href="https://sourcefoundry.org/hack/"><img src="img/hack-specimen-2.png" alt="Hack-a monospaced sans-serif font for source code" width="728"></a>
 <br>
